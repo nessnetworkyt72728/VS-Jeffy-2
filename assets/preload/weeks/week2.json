@@ -1,0 +1,66 @@
+{
+	"storyName": "vs drawing jeffy",
+	"hideFreeplay": false,
+	"weekBackground": "kitchen",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"djmenu",
+		"marvinmenu",
+		"rosemenu"
+	],
+	"songs": [
+		[
+			"play-doe",
+			"drawing-jeffy",
+			[
+				255,
+				80,
+				0
+			]
+		],
+		[
+			"real boy",
+			"drawing-jeffy",
+			[
+				255,
+				80,
+				0
+			]
+		],
+		[
+			"fraud",
+			"drawing-jeffy",
+			[
+				255,
+				80,
+				0
+			]
+		],
+		[
+			"demented",
+			"drawing-jeffy",
+			[
+				255,
+				80,
+				0
+			]
+		],
+		[
+			"run!!!",
+			"drawing-jeffy",
+			[
+				255,
+				80,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
